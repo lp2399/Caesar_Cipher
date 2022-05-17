@@ -1,2 +1,2 @@
 # Caesar_Cipher
-Python implementation of Caesar's cipher
+Caesar wants to arrange a secret meeting with Marc Antony, either at the Tiber (the river) or the Coliseum (the arena). He sends the ciphertext EVIRE. However, Antony does not know the key, so he tries all possibilities. Where will he meet Caesar? (Hint: this is a trick question.). The answer is that it cannot be determined since there are two places that appear in the program when we use brute force, these are arena and river.
